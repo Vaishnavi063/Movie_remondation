@@ -1,3 +1,4 @@
 Similarity.pkl filter=lfs diff=lfs merge=lfs -text
 Movie_list.pkl filter=lfs diff=lfs merge=lfs -text
+.venv/lib/python3.12/site-packages/pyarrow/libarrow.1801.dylib filter=lfs diff=lfs merge=lfs -text
 *.pkl filter=lfs diff=lfs merge=lfs -text
